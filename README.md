@@ -11,15 +11,6 @@
 
 ## 🏆 Достижения и сертификаты
 
-### 📜 Пройденные курсы
-| Курс | Организация | Дата начала | Дата окончания |
-|------|------------|------------|---------------|
-| Python (базовый/продвинутый) | Код будущего | 23.04.2024 | 01.06.2024 |
-| The Rust Programming Language | Rust Foundation | 20.06.2024 | 02.09.2024 |
-
-### ⚔️ Codewars
-[![Codewars](https://www.codewars.com/users/DiavolIII/badges/large)](https://www.codewars.com/users/DiavolIII)
-
 ---
 
 ## 🛠 **Технологии и инструменты**
@@ -29,12 +20,7 @@
   <!-- Основные языки -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   
   <!-- Добавленные языки -->
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
@@ -78,19 +64,16 @@
 
 ## 📱 **Связь со мной**
 
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/xxxdanyacookie)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xxxdanyacookie)
-
-### 🔔 **Мой канал в Telegram**
-[![Подписаться](https://img.shields.io/badge/Подписаться-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Progxs)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/witnessmypower)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/neformaxim)
 
 ---
 
 ### 📊 **Статистика активности**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiavolIII&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiavolIII&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=witness281&show_icons=true&theme=radical)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=witness281&layout=compact&theme=radical)
 
 ---
 
-**🚀 Код — это искусство, а я — вечный ученик.**
+**🚀 FLY TO THE MOON.**

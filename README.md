@@ -51,7 +51,7 @@
 ### 📊 **Статистика активности**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=witness281&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=witness281&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=witness281&layout=compact&theme=radical)
 
 ---
 

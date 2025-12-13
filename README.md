@@ -11,7 +11,7 @@
 
 ## 🏆 Достижения и сертификаты
 
-https://education.maximumtest.ru/img/certificate_code_of_future_logo_background.b3fed716..svg
+<img width="856" height="580" alt="certificate_4197-65985-4012-9784413" src="https://github.com/user-attachments/assets/2d644b4c-1adb-44ac-83b8-54d2b99eee45" />
 
 ---
 

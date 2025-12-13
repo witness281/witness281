@@ -11,6 +11,8 @@
 
 ## 🏆 Достижения и сертификаты
 
+https://education.maximumtest.ru/img/certificate_code_of_future_logo_background.b3fed716..svg
+
 ---
 
 ## 🛠 **Технологии и инструменты**

@@ -16,7 +16,9 @@
 
 ## Резюме
 
-<img width="863" height="1170" alt="programmist" src="https://github.com/user-attachments/assets/f766c5dc-220c-4aa9-9545-dc7966db6561" />
+<img width="860" height="1169" alt="333" src="https://github.com/user-attachments/assets/32d56a9f-8ea7-4558-b609-17924d809cab" />
+
+
 
 
 ## 🏆 Достижения и сертификаты
